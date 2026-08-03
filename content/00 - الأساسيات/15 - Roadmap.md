@@ -190,5 +190,5 @@ source: ""
 - [[09 - Sprint Review|مراجعة السبرنت (Sprint Review)]]
 - [[21 - Stakeholder Communication|التواصل مع أصحاب المصلحة (Stakeholder Communication)]]
 - [[Now-Next-Later Roadmap|خارطة الآن والتالي ولاحقًا (Now-Next-Later)]]
-- [[Outcome vs Output|النتيجة والمخرَج (Outcome vs Output)]]
+- [[Outcome vs Output|المخرَج والأثر]]
 - [[Prioritization|ترتيب الأولويات (Prioritization)]]

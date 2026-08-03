@@ -1,0 +1,57 @@
+filters:
+  and:
+    - type == "قالب"
+    - '!file.name.contains("Template")'
+formulas:
+  status_icon: if(status == "مكتمل", "✅", if(status == "قيد التقدّم", "🟡", "⬜"))
+  المرحلة_رقم: if(stage, number(split(stage, " · ")[0]), 99)
+properties:
+  stage:
+    displayName: المرحلة
+  excel_sheet:
+    displayName: ورقة Excel المصدر
+  status:
+    displayName: الحالة
+  formula.status_icon:
+    displayName: ‎
+views:
+  - type: table
+    name: كل القوالب (بالترتيب)
+    order:
+      - formula.status_icon
+      - file.name
+      - stage
+      - excel_sheet
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: حسب مرحلة المشروع
+    groupBy:
+      property: stage
+      direction: ASC
+    order:
+      - formula.status_icon
+      - file.name
+      - excel_sheet
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: حسب حالة المذاكرة
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - formula.status_icon
+      - file.name
+      - stage
+  - type: cards
+    name: بطاقات
+    order:
+      - file.name
+      - stage
+      - excel_sheet
+    sort:
+      - property: file.name
+        direction: ASC

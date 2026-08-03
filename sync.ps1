@@ -131,8 +131,11 @@ if ($Push) {
     # يقول «الفصل 06» في ملفٍ موضعه الخامس. ولا يظهر ذلك في بناء ولا في
     # رابط، بل في عين قارئ يقرأ السابع قبل السادس. (CLAUDE.md 15/و)
     Write-Host "→ فحص ترتيب الملفات..." -ForegroundColor Cyan
+    # الوسيط الفارغ يُكتب `--glossary=` رمزًا واحدًا لا رمزين: فـ PowerShell 5.1
+    # يُسقط `""` قبل أن يصل إلى العملية، فيقرأ argparse خيارًا بلا قيمة ويخرج
+    # بخطأ استعمال — فتقرؤه هذه البوّابة «ترتيبًا مكسورًا» وتوقف نشرًا سليمًا.
     python (Join-Path $Vault ".claude\skills\vault-audit\scripts\audit.py") `
-        --root $Content --only ordering --glossary ""
+        --root $Content --only ordering --glossary=
     if ($LASTEXITCODE -ne 0) {
         throw "ترتيب مكسور في المحتوى — أُوقف النشر قبل أن يُقرأ الجزء السابع قبل السادس"
     }

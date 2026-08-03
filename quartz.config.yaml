@@ -175,6 +175,18 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      # الترتيب بالسلاج (أي باسم الملف) لا بالعنوان. وعلّته أنّ ترتيب القراءة
+      # في هذا الفولت محفوظ في اسم الملف — «1.1» و«2.1» و«01 - » — بينما
+      # العنوان نثرٌ يبدأ بترتيب مكتوب حروفًا: «الجزء السادس» و«الجزء السابع».
+      # والفرز الأبجدي العربي يضع «السابع» قبل «السادس» و«الثالث» قبل «الثاني»
+      # (ب قبل د، ول قبل ن)، فكان الشجرُ يعرض أجزاء الورشة مبعثرة.
+      # وnumeric: true يجعل «10.1» بعد «2.1» لا قبلها.
+      # تُمرَّر نصًّا لأنّ YAML لا يحمل دوالّ؛ والإضافة تُعيد بناءها في المتصفّح.
+      sortFn: >-
+        (a, b) => { if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+        return (a.slugSegment || "").localeCompare(b.slugSegment || "", undefined,
+        { numeric: true, sensitivity: "base" }); }
     layout:
       position: left
       priority: 50

@@ -66,6 +66,10 @@ Test-Rule -Name "استثناء ملفات القوالب" -File "quartz.config.
     -Pattern '\*\*/_\*Template\*' -Literal:$false `
     -Why "بدونه تُنشر القوالب؛ وبنمط أوسع (**/_*) يسقط محتوى حقيقي يبدأ بشرطة سفلية"
 
+Test-Rule -Name "ترتيب الشجر بالسلاج لا بالعنوان" -File "quartz.config.yaml" `
+    -Pattern '(?s)explorer.{0,600}?sortFn:.{0,300}?slugSegment' `
+    -Why "بدونه يعود الفرز إلى العنوان، فيسبق «الجزء السابع» «السادسَ» أبجديًّا"
+
 Test-Rule -Name "إضافة excalidraw معطّلة" -File "quartz.config.yaml" `
     -Pattern '(?s)excalidraw.{0,200}?enabled:\s*false' `
     -Why "حزمتها غير منشورة على npm، فتفعيلها يُنذر في كلّ بناء بلا فائدة"

@@ -178,8 +178,43 @@ plugins:
     layout:
       position: left
       priority: 50
+  # النسخة المستعملة محلّية ومرقَّعة: plugins/graph (وعلّتها في PATCHES.md هناك).
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 1
+        # العمق 2 يبلغ ٧٠٠ عقدة في هذا المستودع لأنّ فيه فهارس تربط المئات،
+        # فيصير المخطّط كتلة واحدة لا خريطة. والعمق 1 وسيطه ٢١ جارًا للصفحة.
+        scale: 1.05
+        # التنافر والمسافة أوسع من الافتراضي، وإلا تكدّست عشرون عقدة في بقعة.
+        repelForce: 0.7
+        centerForce: 0.3
+        linkDistance: 38
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: true
+        # وسم على ٧٥٢ صفحة من ٨٩٨ لا يفرّق شيئًا عن شيء، ويصير في المخطّط
+        # الشامل عقدةً تتّصل بكلّ شيء فتُخفي البنية الحقيقية.
+        removeTags:
+          - إدارة-المشاريع
+        # يُعتِم ما لا صلة له بالعقدة التي تحتها المؤشّر — وبه وحده يُقرأ
+        # مخطّطٌ فيه ستّون عقدة.
+        focusOnHover: true
+        enableRadial: false
+      globalGraph:
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.2
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: true
+        removeTags:
+          - إدارة-المشاريع
+        focusOnHover: true
+        enableRadial: true
     layout:
       position: right
       priority: 10

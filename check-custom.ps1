@@ -79,6 +79,28 @@ Test-Rule -Name "عزل الاتجاه في الكود والمعادلات" -Fi
     -Pattern 'unicode-bidi:\s*isolate' `
     -Why "بدونه تنقلب أسطر الكود والمعادلات داخل صفحة RTL"
 
+# ─── التمثيل التفاعلي: نسخة الإضافة المرقَّعة ─────────────────────────────
+# تفصيل الرقعات في plugins/graph/PATCHES.md
+Test-Rule -Name "إضافة graph تشير إلى النسخة المحلّية" -File "package.json" `
+    -Pattern '"@quartz-community/graph":\s*"file:\./plugins/graph"' `
+    -Why "بالعودة إلى نسخة npm يعود العطل الأصلي: نقطة واحدة في كلّ صفحة عربية"
+
+Test-Rule -Name "رقعة فكّ ترميز المسار" -File "plugins/graph/dist/index.js" `
+    -Pattern 'decodeURIComponent' `
+    -Why "بدونها لا يطابق سلاجُ الصفحة المرمَّز مفاتيحَ contentIndex العربية، فلا جيران"
+
+Test-Rule -Name "رقعة لون الوصلات" -File "plugins/graph/dist/index.js" `
+    -Pattern '--graph-link' `
+    -Why "بدونها تُرسم الوصلات بلون خلفية الثيم (تباين 1.04:1) فلا تُرى واحدة منها"
+
+Test-Rule -Name "رقعة حدّ العقد في المخطّط المحلّي" -File "plugins/graph/dist/index.js" `
+    -Pattern 'ru\.size>90' `
+    -Why "بدونها تخرج الصفحتان الفهرسيّتان (٦٦٨ و٤٥٠ جارًا) مستطيلًا أسود"
+
+Test-Rule -Name "تعريف --graph-link" -File "quartz/styles/custom.scss" `
+    -Pattern '--graph-link:\s*#' `
+    -Why "الرقعة تقرؤه، فإن غاب عادت الوصلات إلى لون الخلفية"
+
 # ─── سلسلة الأدوات ────────────────────────────────────────────────────────
 Test-Rule -Name "moduleResolution: bundler" -File "tsconfig.json" `
     -Pattern '"moduleResolution":\s*"bundler"' `

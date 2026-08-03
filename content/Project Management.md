@@ -2,7 +2,6 @@
 title: إدارة المشاريع البرمجية
 aliases:
   - إدارة المشاريع البرمجية
-  - Project Management
 type: topic-index
 tags:
   - إدارة-المشاريع

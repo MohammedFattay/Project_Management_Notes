@@ -63,4 +63,4 @@ flowchart TD
 > - استخدام سرعة الفريق (Velocity) كأداة ضغط أو مقارنة تنافسية بين الفرق، مما يدفع الفرق لتضخيم تقديراتها بدلًا من تقديرها بصدق.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Planning Poker]] | [[Estimation Variance]] | [[Original Estimate]] | [[Man-Day and Person-Day]] | [[Monte Carlo Simulation]] | [[Backlog Refinement]] | [[Little's Law]] | [[12 - Story Points]] | [[18 - Velocity]]
+[[Planning Poker]] | [[T-Shirt Sizing]] | [[Estimation Variance]] | [[Original Estimate]] | [[Man-Day and Person-Day]] | [[Monte Carlo Simulation]] | [[Backlog Refinement]] | [[Little's Law]] | [[12 - Story Points]] | [[18 - Velocity]]

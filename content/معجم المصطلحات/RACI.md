@@ -103,4 +103,4 @@ flowchart TD
 > - **إبقاء `A` عند المورّد في قرار الإطلاق**: يحمّل من لا يملك العواقب مسؤوليتها. الحلّ: `A` للراعي في صفّ الإطلاق.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Steering Committee]] | [[RAID Log]] | [[Go or No-Go Decision]] | [[Hypercare]] | [[UAT]] | [[Readiness Assessment]] | [[Time to Value]] | [[17 - Client Responsibility RACI]]
+[[Steering Committee]] | [[RAID Log]] | [[Go or No-Go Decision]] | [[Hypercare]] | [[UAT]] | [[Readiness Assessment]] | [[Time to Value]] | [[17 - Client Responsibility RACI]] | [[PARIS Matrix]] | [[DACI]] | [[SPADE]] | [[Chain of Command]]

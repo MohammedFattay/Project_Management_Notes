@@ -61,4 +61,4 @@ flowchart TD
 > - تقدير قصص كبيرة جدًا وغامضة دون تقسيمها أولًا (انظر [[Task and Story Slicing]])، مما ينتج تقديرات غير موثوقة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Relative Estimation]] | [[Estimation Variance]] | [[Task and Story Slicing]] | [[Backlog Refinement]] | [[INVEST Criteria]] | [[Facilitator]] | [[12 - Story Points]] | [[08 - Sprint Planning]] | [[11 - User Stories]]
+[[Relative Estimation]] | [[T-Shirt Sizing]] | [[Estimation Variance]] | [[Task and Story Slicing]] | [[Backlog Refinement]] | [[INVEST Criteria]] | [[Facilitator]] | [[12 - Story Points]] | [[08 - Sprint Planning]] | [[11 - User Stories]]

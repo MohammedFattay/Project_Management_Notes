@@ -64,3 +64,5 @@ flowchart TD
 - [[Emotional Intelligence]]
 - [[06 - Scrum Master]]
 - [[Cross-functional Team]]
+- [[One-on-One]]
+- [[Skip-Level Meeting]]

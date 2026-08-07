@@ -52,7 +52,7 @@ status: لم يبدأ
 | **[[CSF\|عامل النجاح الحرج]]** | ما الذي بدونه نفشل حتمًا؟ | شرطٌ لا زمن له | **مجال أو شرط**، لا رقم |
 | **[[KPI\|مؤشّر الأداء]]** | كيف كان أداؤنا؟ | لاحق غالبًا | مقياس نتيجة |
 | **مؤشّر الخطر (KRI)** | ما الذي يوشك أن يقع؟ | سابق | مقياس إنذار |
-| **الحرج للجودة (CTQ)** | ما الذي يراه العميل جودةً؟ | شرط مواصفة | خاصّية قابلة للقياس بحدود |
+| **[[CTQ\|الحرج للجودة]] (CTQ)** | ما الذي يراه العميل جودةً؟ | شرط مواصفة | خاصّية قابلة للقياس بحدود |
 
 > **السؤال الفارق:** عامل النجاح الحرج **شرطٌ**، ومؤشّر الأداء يقيس **ما تحقّق**، ومؤشّر الخطر يقيس **ما يُنذر**، والحرج للجودة يحدّد **ما يقبله العميل**. وأشيع الخلط بين الأوّلين والثاني، لأن الشرط يُصاغ أحيانًا رقمًا فيبدو مؤشّرًا.
 
@@ -118,4 +118,4 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
-[[KPI]] | [[CSF]] | [[Risk Register]] | [[RAID Log]] | [[Leading and Lagging Indicators]] | [[Early Warning Dashboard]] | [[Probability and Impact Matrix]] | [[Goodhart's Law]] | [[WIP Aging]] | [[19 - Risk Management]]
+[[KPI]] | [[CSF]] | [[CTQ]] | [[Anomaly Detection]] | [[Trend Analysis]] | [[Risk Register]] | [[RAID Log]] | [[Leading and Lagging Indicators]] | [[Early Warning Dashboard]] | [[Probability and Impact Matrix]] | [[Goodhart's Law]] | [[WIP Aging]] | [[19 - Risk Management]]

@@ -60,4 +60,4 @@ flowchart TD
 > - عدم تحديث المئينات بشكل دوري رغم تغيّر أداء الفريق مع الوقت.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Cycle Time]] | [[Lead Time]] | [[SLE]] | [[Monte Carlo Simulation]] | [[Control Chart]] | [[Throughput]] | [[Estimation Variance]]
+[[Cycle Time]] | [[Descriptive and Inferential Statistics]] | [[Trend Analysis]] | [[Lead Time]] | [[SLE]] | [[Monte Carlo Simulation]] | [[Control Chart]] | [[Throughput]] | [[Estimation Variance]]

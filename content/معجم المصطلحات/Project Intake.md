@@ -101,4 +101,4 @@ flowchart TD
 > - **قبول تاريخ إطلاق دون فحص واقعيته**: يورّط الفريق في وعد لا يملك أدواته. الحلّ: احسب النطاق الزمني الأوّلي من [[PFRE]] قبل تثبيت أي تاريخ.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Readiness Assessment]] | [[PFRE]] | [[Reality Factor]] | [[RAID Log]] | [[Criticality]] | [[Lessons Learned]] | [[01 - Project Intake]]
+[[Quad Chart]] | [[T-Shirt Sizing]] | [[Readiness Assessment]] | [[PFRE]] | [[Reality Factor]] | [[RAID Log]] | [[Criticality]] | [[Lessons Learned]] | [[01 - Project Intake]] | [[Portfolio Optimization]]

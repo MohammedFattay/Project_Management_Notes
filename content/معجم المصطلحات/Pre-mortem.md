@@ -92,4 +92,4 @@ flowchart TD
 > - **الخطأ: تحويلها إلى ملء استمارة مخاطر جاهزة**. لماذا يضرّ: القوالب المعلّبة توجّه التفكير نحو فئات مألوفة (جدول، ميزانية، موارد) وتحجب الأسباب الغريبة الخاصة بهذا المشروع، وهي غالبًا الأخطر. الحل: ابدأ بصفحة بيضاء وسرد حرّ، ثم صنّف لاحقًا عند النقل إلى السجلّ.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Kill Criteria]] | [[Blameless Postmortem]] | [[Intelligent Failure]] | [[Intellectual Humility]] | [[Risk Register]] | [[RAID Log]] | [[Assumption Mapping]] | [[Probability and Impact Matrix]] | [[Root Cause Analysis]] | [[Psychological Safety]] | [[Go or No-Go Decision]] | [[Decision Log]] | [[Confirmation Bias]] | [[Contingency Reserve]]
+[[Backcasting]] | [[Kill Criteria]] | [[Blameless Postmortem]] | [[Intelligent Failure]] | [[Intellectual Humility]] | [[Risk Register]] | [[RAID Log]] | [[Assumption Mapping]] | [[Probability and Impact Matrix]] | [[Root Cause Analysis]] | [[Psychological Safety]] | [[Go or No-Go Decision]] | [[Decision Log]] | [[Confirmation Bias]] | [[Contingency Reserve]]

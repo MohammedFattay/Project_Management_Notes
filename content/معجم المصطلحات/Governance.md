@@ -87,4 +87,4 @@ flowchart TD
 > - **إهمال مسار التصعيد حتى وقوع الأزمة**: أول تصعيد حقيقي يحدث في الشهر السادس ولا أحد يعرف الآلية. **الحل**: اختبار مسار التصعيد مبكّرًا بقضية حقيقية صغيرة، للتأكّد من أن السقوف الزمنية تعمل فعلًا.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Steering Committee]] | [[Decision Log]] | [[Escalation Path]] | [[RACI]] | [[Guard Rails]] | [[Change Request]] | [[Project Health Report]] | [[Sponsor]]
+[[Steering Committee]] | [[PRINCE2]] | [[Decision Log]] | [[Escalation Path]] | [[RACI]] | [[Guard Rails]] | [[Change Request]] | [[Project Health Report]] | [[Sponsor]]

@@ -97,4 +97,4 @@ flowchart TD
 > - **استخدام WSJF كمبرر لرفض كل عمل تقني لا يحمل قيمة تجارية مباشرة**: يؤدي إلى تراكم الدين التقني حتى الانهيار. الحل: قدّر عمل البنية التحتية عبر محور RR/OE بصدق، فهذا المحور موجود في المعادلة لهذا الغرض تحديدًا.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Cost of Delay]] | [[MoSCoW Prioritization]] | [[12 - Story Points]] | [[Relative Estimation]] | [[15 - Roadmap]] | [[13 - Backlog]] | [[Quick Wins vs Big Bangs]] | [[Value Stream]]
+[[Cost of Delay]] | [[MoSCoW Prioritization]] | [[12 - Story Points]] | [[Relative Estimation]] | [[15 - Roadmap]] | [[13 - Backlog]] | [[Quick Wins vs Big Bangs]] | [[Value Stream]] | [[Portfolio Optimization]]

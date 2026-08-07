@@ -97,4 +97,4 @@ flowchart TD
 > - **تجاهل من سينفّذ الحل يوميًّا**: الخطأ → قصر التعاطف على العميل النهائي وإهمال الموظّف الذي سيشغّل الخدمة. لماذا يضرّ → تصميم يبدو ممتازًا للعميل ويستحيل تشغيله على الخط الأمامي، فيُلتَفّ عليه بحلول جانبية تُفسده. الحل → اعتبر الموظّف مستخدمًا من الدرجة الأولى وأدرجه في البحث والاختبار.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Double Diamond]] | [[Cynefin]] | [[Product Discovery]] | [[Problem Statement]] | [[Prototype]] | [[User Interview]] | [[The Mom Test]] | [[User Journey Map]] | [[Assumption Mapping]] | [[Lean Startup]] | [[Business Model Canvas]] | [[Cost-of-Change Curve]]
+[[Double Diamond]] | [[Cynefin]] | [[SCAMPER]] | [[Six Thinking Hats]] | [[Product Discovery]] | [[Problem Statement]] | [[Prototype]] | [[User Interview]] | [[The Mom Test]] | [[User Journey Map]] | [[Assumption Mapping]] | [[Lean Startup]] | [[Business Model Canvas]] | [[Cost-of-Change Curve]]

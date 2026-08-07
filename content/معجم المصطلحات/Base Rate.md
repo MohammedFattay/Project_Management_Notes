@@ -85,4 +85,4 @@ flowchart TD
 > - **استخدام معدّل الأساس لمعاقبة الفرق**: حين يصبح التاريخ أداة محاسبة، يتوقّف الناس عن تسجيل البيانات الصادقة. الحل: افصل بيانات التقدير عن تقييم الأداء الفردي، واستعملها للتنبّؤ لا للّوم — وهو شرط مباشر لبقاء [[Psychological Safety]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Estimation Variance]] | [[Calibration]] | [[Knightian Uncertainty]] | [[First Principles Thinking]] | [[Reversible vs Irreversible Decisions]] | [[Data Informed vs Data Driven]] | [[Percentiles and Median vs Average]] | [[Monte Carlo Simulation]] | [[Reality Factor]] | [[Original Estimate]] | [[Confirmation Bias]]
+[[Estimation Variance]] | [[Anomaly Detection]] | [[Descriptive and Inferential Statistics]] | [[Calibration]] | [[Knightian Uncertainty]] | [[First Principles Thinking]] | [[Reversible vs Irreversible Decisions]] | [[Data Informed vs Data Driven]] | [[Percentiles and Median vs Average]] | [[Monte Carlo Simulation]] | [[Reality Factor]] | [[Original Estimate]] | [[Confirmation Bias]]

@@ -94,4 +94,4 @@ flowchart TD
 > - **الخطأ: استخدام التجربة لتبرير قرار مُتّخذ سلفًا** → **لماذا يضرّ**: يتحوّل التجريب إلى طقس شكلي يغذّي [[Confirmation Bias|انحياز التأكيد]]، فتُقبل النتائج الموافقة وتُشكَّك النتائج المخالفة بحجج منهجية انتقائية → **الحل**: اشترط التزامًا مكتوبًا مسبقًا بما سيُفعل في كل من حالتي الفوز والخسارة، ووقّع عليه صاحب القرار قبل التشغيل.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Hypothesis]] | [[Product Analytics]] | [[Retention]] | [[Churn]] | [[User Flow]] | [[Wireframe]] | [[Fake Door Test]] | [[Cost of Experimentation]] | [[North Star Metric]] | [[Guard Rails]] | [[Pilot Launch]] | [[Product Discovery]] | [[Confirmation Bias]] | [[Percentiles and Median vs Average]] | [[Outcome vs Output]]
+[[Hypothesis]] | [[Statistical Significance]] | [[Product Analytics]] | [[Retention]] | [[Churn]] | [[User Flow]] | [[Wireframe]] | [[Fake Door Test]] | [[Cost of Experimentation]] | [[North Star Metric]] | [[Guard Rails]] | [[Pilot Launch]] | [[Product Discovery]] | [[Confirmation Bias]] | [[Percentiles and Median vs Average]] | [[Outcome vs Output]]

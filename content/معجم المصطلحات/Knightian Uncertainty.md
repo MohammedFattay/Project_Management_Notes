@@ -84,4 +84,4 @@ flowchart TD
 > - **إهمال إعادة التصنيف بمرور الوقت**: يبقى بند مصنّفًا «غير قابل للقياس» بعد أن صارت لدينا بيانات ستة أشهر. الحل: اجعل إعادة تصنيف بنود عدم اليقين بندًا ثابتًا في مراجعة كل مرحلة، ووثّق التحوّل في [[Decision Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Base Rate]] | [[Calibration]] | [[Reversible vs Irreversible Decisions]] | [[First Principles Thinking]] | [[Data Informed vs Data Driven]] | [[Risk Register]] | [[Monte Carlo Simulation]] | [[Contingency Reserve]] | [[Estimation Variance]] | [[Probability and Impact Matrix]] | [[Non-determinism]]
+[[VUCA]] | [[Cynefin]] | [[Base Rate]] | [[Calibration]] | [[Reversible vs Irreversible Decisions]] | [[First Principles Thinking]] | [[Data Informed vs Data Driven]] | [[Risk Register]] | [[Monte Carlo Simulation]] | [[Contingency Reserve]] | [[Estimation Variance]] | [[Probability and Impact Matrix]] | [[Non-determinism]]

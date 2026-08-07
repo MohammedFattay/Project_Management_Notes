@@ -80,4 +80,4 @@ flowchart TD
 > - **استخدامه لعلاج مشكلة تدفّق داخل فريق واحد**: علاج في المكان الخطأ. الحلّ: شخّص القيد قبل اختيار الإطار.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[01 - Agile]] | [[02 - Scrum]] | [[03 - Kanban]] | [[WSJF]] | [[Cost of Delay]] | [[Dependency]] | [[Flow Predictability]] | [[Governance]] | [[Scrum-ban]] | [[09 - التشخيص العملي - قراءة الأرقام]]
+[[01 - Agile]] | [[02 - Scrum]] | [[03 - Kanban]] | [[Spotify Model]] | [[Community of Practice]] | [[WSJF]] | [[Cost of Delay]] | [[Dependency]] | [[Flow Predictability]] | [[Governance]] | [[Scrum-ban]] | [[09 - التشخيص العملي - قراءة الأرقام]]

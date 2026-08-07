@@ -59,4 +59,4 @@ flowchart TD
 > - **معاملة كل طلب تغيير كأنه طارئ يجب تنفيذه فورًا**: يُغرق الفريق ويشتت تركيزه. الحل: تقييم كل تغيير عبر عملية واضحة (Change Request) قبل قبوله.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Feedback Loop]] | [[Change Request]] | [[Contingency Reserve]] | [[ADKAR Model]] | [[Risk Register]] | [[Timeboxing]] | [[Alignment]] | [[Agile Manifesto]] | [[01 - Agile]] | [[13 - Backlog]]
+[[VUCA]] | [[Feedback Loop]] | [[Change Request]] | [[Contingency Reserve]] | [[ADKAR Model]] | [[Risk Register]] | [[Timeboxing]] | [[Alignment]] | [[Agile Manifesto]] | [[01 - Agile]] | [[13 - Backlog]]

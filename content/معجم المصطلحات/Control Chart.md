@@ -61,4 +61,4 @@ flowchart TD
 > - تجاهل النقاط الشاذة دون تحقيق لأنها "حالات نادرة"، فتتكرر نفس المشكلة الجذرية لاحقًا. **الحل:** إجراء تحليل السبب الجذري ([[Root Cause Analysis]]) لكل نقطة شاذة متكررة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Cycle Time]] | [[Little's Law]] | [[SLE]] | [[WIP Limit]] | [[Throughput]] | [[Bottleneck]] | [[Percentiles and Median vs Average]] | [[03 - Kanban]] | [[17 - Burndown Chart]]
+[[Cycle Time]] | [[Trend Analysis]] | [[Anomaly Detection]] | [[Six Sigma]] | [[DMAIC]] | [[Little's Law]] | [[SLE]] | [[WIP Limit]] | [[Throughput]] | [[Bottleneck]] | [[Percentiles and Median vs Average]] | [[03 - Kanban]] | [[17 - Burndown Chart]]

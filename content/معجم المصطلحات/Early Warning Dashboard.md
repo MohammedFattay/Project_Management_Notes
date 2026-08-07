@@ -122,4 +122,4 @@ flowchart TD
 > - **التصعيد بلغة اللوم**: يُقابَل بالدفاع. الحلّ: صعّد بلغة الأثر المُسعَّر — «كل يوم تأخير يكلّف كذا».
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[RAID Log]] | [[Project Health Report]] | [[Reality Factor]] | [[Vendor Scorecard]] | [[19 - Risk Management]] | [[SLA]] | [[Go or No-Go Decision]] | [[19 - Early Warning Dashboard]]
+[[RAID Log]] | [[Anomaly Detection]] | [[Trend Analysis]] | [[Project Health Report]] | [[Reality Factor]] | [[Vendor Scorecard]] | [[19 - Risk Management]] | [[SLA]] | [[Go or No-Go Decision]] | [[19 - Early Warning Dashboard]]

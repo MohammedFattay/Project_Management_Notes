@@ -109,4 +109,4 @@ flowchart TD
 > - **قياس الساعات المفوترة بدل القيمة المسلَّمة**: يكافئ المورّد على استهلاك الوقت لا على إنجاز النتيجة. الحل: ربط الدفعات بمخرجات مقبولة وفق معايير القبول، لا بعدد الساعات.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[بطاقة تقييم المورّد (Vendor Scorecard)]] | [[SLA]] | [[Vendor Lock-in]] | [[SOW]] | [[Flow Efficiency]] | [[Escalation Path]] | [[RAID Log]] | [[Single Source of Truth]] | [[Knowledge Management]] | [[Definition of Done]]
+[[Outsourcing]] | [[بطاقة تقييم المورّد (Vendor Scorecard)]] | [[SLA]] | [[Vendor Lock-in]] | [[SOW]] | [[Flow Efficiency]] | [[Escalation Path]] | [[RAID Log]] | [[Single Source of Truth]] | [[Knowledge Management]] | [[Definition of Done]]

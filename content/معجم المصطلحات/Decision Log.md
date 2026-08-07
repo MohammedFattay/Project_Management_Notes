@@ -93,4 +93,4 @@ flowchart TD
 > - **خلط القرارات التقنية العميقة بسجل المشروع**: يُثقل السجل الإداري بتفاصيل لا يقرؤها أصحاب المصلحة. الحل: توثيق القرارات المعمارية في [[ADR]] داخل المستودع، وإدراج إحالة مختصرة إليها في سجل المشروع عند وجود أثر زمني أو مالي.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[RAID Log]] | [[Change Request]] | [[ADR]] | [[Issue Log]] | [[Risk Register]] | [[Single Source of Truth]] | [[Governance]]
+[[RAID Log]] | [[Change Request]] | [[ADR]] | [[Issue Log]] | [[Risk Register]] | [[Single Source of Truth]] | [[Governance]] | [[SPADE]]

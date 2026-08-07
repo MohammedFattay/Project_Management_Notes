@@ -95,4 +95,4 @@ flowchart TD
 > - **الخطأ: تحويل المراجعة إلى ساحة للمطالبات المؤجَّلة**. لماذا يضرّ: يستغلّ كل فريق الجلسة لطرح ما كان يطالب به أصلًا، فيتشتّت التحليل وتضيع صلة الإجراءات بالحادثة موضع البحث. الحل: احصر النقاش في العوامل التي ساهمت في هذه الحادثة تحديدًا، وحوّل ما عداها إلى [[Backlog Refinement]] أو [[RAID Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Root Cause Analysis]] | [[Psychological Safety]] | [[Pre-mortem]] | [[Intelligent Failure]] | [[Kill Criteria]] | [[Intellectual Humility]] | [[MTTR]] | [[SRE]] | [[SLO]] | [[Rollback]] | [[Hypercare]] | [[Escaped Defect Rate]] | [[Technical Debt]] | [[Organizational Process Assets]] | [[Feedback Loop]] | [[Kaizen]]
+[[Root Cause Analysis]] | [[Ishikawa Diagram]] | [[Psychological Safety]] | [[Pre-mortem]] | [[Intelligent Failure]] | [[Kill Criteria]] | [[Intellectual Humility]] | [[MTTR]] | [[SRE]] | [[SLO]] | [[Rollback]] | [[Hypercare]] | [[Escaped Defect Rate]] | [[Technical Debt]] | [[Organizational Process Assets]] | [[Feedback Loop]] | [[Kaizen]]

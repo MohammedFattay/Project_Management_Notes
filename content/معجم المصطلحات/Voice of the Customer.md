@@ -89,4 +89,4 @@ flowchart TD
 > - **بناء البرنامج بلا مالك ولا دورة ثابتة**: الخطأ توزيع المسؤولية على «الجميع». لماذا يضرّ؟ لأن ما يملكه الجميع لا يملكه أحد، فيتوقّف البرنامج عند أول ضغط تشغيلي. الحل: مالك صريح، ودورة مراجعة شهرية ثابتة، ومؤشّر معلن لعدد القرارات المتأثّرة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[User Interview]] | [[NPS]] | [[Pain Point]] | [[The Mom Test]] | [[Jobs to be Done]] | [[Kano Model]] | [[Continuous Discovery]] | [[Product Discovery]] | [[Product Analytics]] | [[Customer and Market Validation]] | [[Feedback Loop]] | [[UX vs CX]] | [[Opportunity Solution Tree]] | [[Problem Statement]] | [[Decision Log]] | [[Deliberate Practice]]
+[[User Interview]] | [[CTQ]] | [[NPS]] | [[Pain Point]] | [[The Mom Test]] | [[Jobs to be Done]] | [[Kano Model]] | [[Continuous Discovery]] | [[Product Discovery]] | [[Product Analytics]] | [[Customer and Market Validation]] | [[Feedback Loop]] | [[UX vs CX]] | [[Opportunity Solution Tree]] | [[Problem Statement]] | [[Decision Log]] | [[Deliberate Practice]]

@@ -110,4 +110,4 @@ flowchart TD
 > - **معاملة التوطين كمشروع ينتهي بتاريخ**: الخطأ — يُعلن «اكتمل التوطين» وتُحلّ الفرقة. لماذا يضرّ — الإصدار التالي يضيف نصوصًا غير مترجمة تظهر بالإنجليزية داخل واجهة عربية، ويتراكم الفارق حتى يبدو المنتج نصف مترجم. الحل — ادمج التوطين في [[CI and CD]] كخطوة آلية، واعرض «نسبة التغطية اللغوية» كمؤشّر دائم على لوحة الفريق.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Internationalization]] | [[Locale]] | [[RTL]] | [[Pseudo-localization]] | [[ICU Message Format]] | [[Brand Guidelines]] | [[Adoption]] | [[UAT]] | [[TCO]] | [[Vendor Management]]
+[[Internationalization]] | [[Locale]] | [[RTL]] | [[Outsourcing]] | [[Pseudo-localization]] | [[ICU Message Format]] | [[Brand Guidelines]] | [[Adoption]] | [[UAT]] | [[TCO]] | [[Vendor Management]]

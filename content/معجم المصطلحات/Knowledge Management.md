@@ -89,4 +89,4 @@ flowchart TD
 > - **معاملة مشاركة المعرفة كواجب أخلاقي بلا حوافز**: يُطلب من الخبراء التوثيق «من أجل الفريق» بينما التقييم والترقية يقيسان الإنجاز الفردي وحده. لماذا يضرّ: النظام يكافئ الاحتفاظ بالمعرفة ضمنيًّا فيستمرّ السلوك مهما تكرّرت المناشدات. الحل: أدرج مساهمة المعرفة وجودتها في معايير التقييم صراحةً، واحسبها ضمن سعة الفريق لا خارجها.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Context Engineering]] | [[AI-Native]] | [[Workflow]] | [[Systems Thinking]] | [[Single Source of Truth]] | [[Retrieval-Augmented Generation]] | [[Organizational Process Assets]] | [[Decision Log]] | [[Docs as Code]] | [[SOP]] | [[AI Agent]] | [[Hallucination]] | [[Hub and Spoke Content Model]]
+[[Community of Practice]] | [[Context Engineering]] | [[AI-Native]] | [[Workflow]] | [[Systems Thinking]] | [[Single Source of Truth]] | [[Retrieval-Augmented Generation]] | [[Organizational Process Assets]] | [[Decision Log]] | [[Docs as Code]] | [[SOP]] | [[AI Agent]] | [[Hallucination]] | [[Hub and Spoke Content Model]]

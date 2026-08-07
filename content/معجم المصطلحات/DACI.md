@@ -107,4 +107,4 @@ flowchart TD
 > - **الخطأ: تطبيقه بنفس الثقل على القرارات القابلة للعكس والقرارات غير القابلة للعكس.** لماذا يضرّ: يُبطئ المؤسسة في القرارات الرخيصة ويستهلك رصيد الصبر التنظيمي، أو يستهين بالقرارات المصيرية إن جرى التخفيف عشوائيًّا. الحل: صنّف القرار أولًا وفق [[Reversible vs Irreversible Decisions]]، واعتمد نسختين معلنتين من العملية: خفيفة وكاملة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Decision Log]] | [[Reversible vs Irreversible Decisions]] | [[Go or No-Go Decision]] | [[Steering Committee]] | [[Sponsor]] | [[HiPPO]] | [[Psychological Safety]] | [[Empowerment]] | [[Governance]] | [[RAID Log]] | [[Cost-Benefit Analysis]] | [[Stakeholder Map]]
+[[Decision Log]] | [[Reversible vs Irreversible Decisions]] | [[Go or No-Go Decision]] | [[Steering Committee]] | [[Sponsor]] | [[HiPPO]] | [[Psychological Safety]] | [[Empowerment]] | [[Governance]] | [[RAID Log]] | [[Cost-Benefit Analysis]] | [[Stakeholder Map]] | [[SPADE]] | [[PARIS Matrix]]

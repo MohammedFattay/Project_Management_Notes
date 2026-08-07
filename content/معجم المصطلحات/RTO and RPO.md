@@ -66,4 +66,4 @@ flowchart TD
 > - عدم تحديث خطة RTO/RPO بعد نمو حجم البيانات أو تغيّر أهمية النظام، فتصبح الخطة القديمة غير كافية. التجنب: مراجعة الأهداف دورياً كل ربع أو نصف سنة أو عند أي تغيير جوهري في النظام.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Uptime]] | [[SLO]] | [[SLI]] | [[MTTR]] | [[ITIL 4]] | [[SRE]] | [[Risk Register]] | [[19 - Risk Management]] | [[Hotfix]]
+[[Operational Resilience]] | [[Uptime]] | [[SLO]] | [[SLI]] | [[MTTR]] | [[ITIL 4]] | [[SRE]] | [[Risk Register]] | [[19 - Risk Management]] | [[Hotfix]]

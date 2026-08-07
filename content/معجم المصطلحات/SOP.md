@@ -59,4 +59,4 @@ flowchart TD
 > - كتابة SOPs من مكتب الإدارة دون إشراك من ينفّذ العملية فعلياً، فتكون غير واقعية. تجنّبها بإشراك الموظفين التنفيذيين في الكتابة والمراجعة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Organizational Process Assets]] · [[QA vs QC]] · [[ITIL 4]] · [[SRE]] · [[MTTR]] · [[5S]] · [[Toyota Production System]] · [[Closure vs Handover]] · [[SOW]]
+[[Runbook]] · [[Playbook]] · [[Organizational Process Assets]] · [[QA vs QC]] · [[ITIL 4]] · [[SRE]] · [[MTTR]] · [[5S]] · [[Toyota Production System]] · [[Closure vs Handover]] · [[SOW]]

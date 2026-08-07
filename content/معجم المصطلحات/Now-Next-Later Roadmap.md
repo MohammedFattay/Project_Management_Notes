@@ -101,4 +101,4 @@ flowchart TD
 > - **الخطأ: عدم قياس نتيجة ما سُلّم من عمود "الآن".** لماذا يضرّ: تتحوّل الخارطة إلى عدّاد تسليم ميزات لا إلى أداة تحقيق نتائج، وهي عودة كاملة إلى ما جاءت لتصلحه. الحل: اقرن كل بند بمقياس نجاح، وراجعه بعد فترة كافية، وأعد البند إلى الخارطة إن لم تتحقّق نتيجته.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[RICE Prioritization]] | [[Weighted Scoring]] | [[WSJF]] | [[MoSCoW Prioritization]] | [[ICE Scoring]] | [[Opportunity Scoring]] | [[Buy-a-Feature]] | [[Story Mapping]] | [[Outcome vs Output]] | [[OKR]] | [[Non-Goals]] | [[Stakeholder Map]] | [[Milestone]] | [[Gantt Chart]] | [[Continuous Discovery]]
+[[RICE Prioritization]] | [[Weighted Scoring]] | [[WSJF]] | [[MoSCoW Prioritization]] | [[ICE Scoring]] | [[Opportunity Scoring]] | [[Buy-a-Feature]] | [[Story Mapping]] | [[Outcome vs Output]] | [[OKR]] | [[Non-Goals]] | [[Stakeholder Map]] | [[Milestone]] | [[Gantt Chart]] | [[Continuous Discovery]] | [[GIST Planning]]

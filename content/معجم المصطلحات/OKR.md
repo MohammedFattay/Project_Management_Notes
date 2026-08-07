@@ -64,4 +64,4 @@ flowchart TD
 > - **عدم متابعة OKR بعد صياغتها إلا في نهاية الفترة**: يفقدها قيمتها كأداة توجيه. الحل: مراجعة أسبوعية أو نصف شهرية قصيرة لتتبع الدرجة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Alignment]] | [[KPI]] | [[SMART Goals]] | [[Stretch Goal]] | [[Epic]] | [[Backlog Refinement]] | [[Outcome vs Output]] | [[13 - Backlog]] | [[15 - Roadmap]]
+[[Alignment]] | [[KPI]] | [[SMART Goals]] | [[Stretch Goal]] | [[Epic]] | [[Backlog Refinement]] | [[Outcome vs Output]] | [[13 - Backlog]] | [[15 - Roadmap]] | [[GIST Planning]]

@@ -58,7 +58,12 @@ flowchart TD
 > - معاقبة الفريق بشدة عند أول خطأ بعد التمكين، مما يجعله يعود لطلب الموافقة على كل شيء خوفًا من الخطأ — الحل: التعامل مع الأخطاء كفرص تعلّم ضمن ثقافة [[Psychological Safety]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
+- [[Theory X and Y]]
+- [[Command and Control]]
+- [[Chain of Command]]
 - [[Self-Organizing Team]]
+- [[Spotify Model]]
+- [[Two-Pizza Team]]
 - [[Psychological Safety]]
 - [[Servant Leadership]]
 - [[Leadership at Every Level]]

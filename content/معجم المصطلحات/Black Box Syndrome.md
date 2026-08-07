@@ -79,4 +79,4 @@ flowchart TD
 > - **عرض الأرقام على الإدارة قبل أن يصدّقها الفريق**: أوّل تشكيك داخلي يُسقط المنظومة كلّها. الحلّ: التحقّق الداخلي أوّلًا.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Technical Debt]] | [[Psychological Safety]] | [[Feature Factory]] | [[Burnout]] | [[Project Health Report]] | [[RAG Status]] | [[04 - دوّامة الموت والدَّين التقني]] | [[08 - توزيع التدفّق ومراحل حياة المنتج]]
+[[Technical Debt]] | [[Psychological Safety]] | [[Skip-Level Meeting]] | [[Feature Factory]] | [[Burnout]] | [[Project Health Report]] | [[RAG Status]] | [[04 - دوّامة الموت والدَّين التقني]] | [[08 - توزيع التدفّق ومراحل حياة المنتج]]

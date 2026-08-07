@@ -64,4 +64,4 @@ flowchart TD
 > - عدم إشراك فريق الجودة في مراحل التخطيط المبكرة، فيكتشفون المشاكل متأخراً جداً. التجنب: إشراك ممثل عن الجودة منذ اجتماعات تنقيح المتراكم ([[Backlog Refinement]]) الأولى.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[QA vs QC]] | [[Definition of Ready]] | [[Definition of Done]] | [[Given When Then]] | [[Root Cause Analysis]] | [[Shift-Left and Shift-Right]] | [[Extreme Programming]] | [[Regression Testing]] | [[Escaped Defect Rate]] | [[20 - Quality Management]]
+[[QA vs QC]] | [[Six Sigma]] | [[DMAIC]] | [[Ishikawa Diagram]] | [[Quality Attributes]] | [[Definition of Ready]] | [[Definition of Done]] | [[Given When Then]] | [[Root Cause Analysis]] | [[Shift-Left and Shift-Right]] | [[Extreme Programming]] | [[Regression Testing]] | [[Escaped Defect Rate]] | [[20 - Quality Management]]

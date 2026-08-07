@@ -84,4 +84,4 @@ flowchart TD
 > - **الإسراف في المرونة حتى لا يُحسم شيء**: كل شيء قابل للتبديل، فلا يستقرّ أي معيار وتتضخّم طبقات التجريد بلا مستفيد. الحل: اشترِ الخيار فقط حيث احتمال التغيير معتبر وكلفة الخطأ مرتفعة، واحسم ما عداه صراحةً وسجّله.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Knightian Uncertainty]] | [[Base Rate]] | [[Calibration]] | [[First Principles Thinking]] | [[Data Informed vs Data Driven]] | [[Decision Log]] | [[Go or No-Go Decision]] | [[Rollback]] | [[Vendor Lock-in]] | [[Explicit Policies]] | [[Governance]]
+[[Knightian Uncertainty]] | [[Base Rate]] | [[Calibration]] | [[First Principles Thinking]] | [[Data Informed vs Data Driven]] | [[Decision Log]] | [[Go or No-Go Decision]] | [[Rollback]] | [[Vendor Lock-in]] | [[Explicit Policies]] | [[Governance]] | [[SPADE]]

@@ -78,4 +78,4 @@ flowchart TD
 > - **إهمال البند الصغير مرتفع الأثر**: بند تنفيذه دقائق وتكلفة تأخيره غرامة يقع خارج «الـ20% بالحجم». الحلّ: رتّب بـ[[WSJF]] — تكلفة التأخير على الحجم — لا بالحجم وحده.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Theory of Constraints]] | [[Bottleneck]] | [[Cost of Delay]] | [[WSJF]] | [[Prioritization]] | [[Risk-Based Testing]] | [[Root Cause Analysis]] | [[Value Stream Mapping]]
+[[Ishikawa Diagram]] | [[Theory of Constraints]] | [[Bottleneck]] | [[Cost of Delay]] | [[WSJF]] | [[Prioritization]] | [[Risk-Based Testing]] | [[Root Cause Analysis]] | [[Value Stream Mapping]]

@@ -70,7 +70,7 @@ flowchart TD
 > - **معاملة كل الديون بنفس الأهمية**؛ الأصح تصنيفها حسب الأثر والمخاطرة (شبيه بـ[[Probability and Impact Matrix]]) والتعامل أولًا مع الديون الأكثر خطورة على الاستقرار أو الأمان.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Cost-of-Change Curve]] | [[Backlog Refinement]] | [[MVP]] | [[Rework Percentage]] | [[TCO]] | [[Escaped Defect Rate]] | [[Cost of Delay]] | [[MoSCoW Prioritization]] | [[Velocity]] | [[10 - Sprint Retrospective]]
+[[Cost-of-Change Curve]] | [[Good Enough For Now]] | [[Backlog Refinement]] | [[MVP]] | [[Rework Percentage]] | [[TCO]] | [[Escaped Defect Rate]] | [[Cost of Delay]] | [[MoSCoW Prioritization]] | [[Velocity]] | [[10 - Sprint Retrospective]]
 
 
 > [!tip] 💡 إثراء عملي — كورس الإنتاجية

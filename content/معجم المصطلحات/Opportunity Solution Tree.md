@@ -105,4 +105,4 @@ flowchart TD
 > - **استخدام أرقام الترتيب لإخفاء غياب الدليل**: تُعطى الفرص درجات دقيقة المظهر بلا سند حقيقي، فيبدو القرار موضوعيًّا وهو تخمين مغلّف. الحل: تسجيل **مصدر الدليل ومستوى الثقة** بجانب كل فرصة، والتصريح بأن الفرص ضعيفة الدليل تحتاج اكتشافًا لا ترتيبًا.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Continuous Discovery]] | [[Product Discovery]] | [[Outcome vs Output]] | [[Pain Point]] | [[Jobs to be Done]] | [[MVP]] | [[RICE Prioritization]]
+[[Continuous Discovery]] | [[Product Discovery]] | [[Outcome vs Output]] | [[Pain Point]] | [[Jobs to be Done]] | [[MVP]] | [[RICE Prioritization]] | [[GIST Planning]]

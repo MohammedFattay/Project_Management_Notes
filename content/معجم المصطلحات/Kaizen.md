@@ -63,4 +63,4 @@ flowchart TD
 > - معاملة كايزن كحدث سنوي أو ربع سنوي فقط بدل عادة مستمرة، مما يفقده قيمته التراكمية. الحل: ربط كايزن بدورة العمل المنتظمة (كل Sprint) لا بمناسبات نادرة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[PDCA]] | [[Toyota Production System]] | [[Muda, Mura, Muri]] | [[5S]] | [[Gemba Walk]] | [[Evolutionary Change]] | [[Leadership at Every Level]] | [[Empowerment]] | [[10 - Sprint Retrospective]] | [[Value Stream Mapping]]
+[[PDCA]] | [[DMAIC]] | [[Six Sigma]] | [[Toyota Production System]] | [[Muda, Mura, Muri]] | [[5S]] | [[Gemba Walk]] | [[Evolutionary Change]] | [[Leadership at Every Level]] | [[Empowerment]] | [[10 - Sprint Retrospective]] | [[Value Stream Mapping]]

@@ -92,4 +92,4 @@ flowchart TD
 > - **الخطأ**: إبقاء الاتفاقية جامدة سنوات بعد تضاعف الاستخدام أو تغيّر المعمارية. **لماذا يضرّ**: تصبح العتبات إمّا مستحيلة أو بلا معنى، وتفقد الاتفاقية دورها كأداة إدارة. **الحل**: اجعل المراجعة الدورية بندًا داخل الاتفاقية نفسها، مرتبطًا بمُحفّزات واضحة مثل نموّ الحمل أو تغيير المزوّد.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[SLI]] | [[SLO]] | [[SLE]] | [[Uptime]] | [[MTTR]] | [[RTO and RPO]] | [[Severity vs Priority]] | [[Vendor Management]] | [[ITIL 4]] | [[SRE]] | [[Hypercare]] | [[SOW]]
+[[SLI]] | [[SLO]] | [[SLE]] | [[Quality Attributes]] | [[Uptime]] | [[MTTR]] | [[RTO and RPO]] | [[Severity vs Priority]] | [[Vendor Management]] | [[ITIL 4]] | [[SRE]] | [[Hypercare]] | [[SOW]]

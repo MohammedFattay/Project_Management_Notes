@@ -86,7 +86,7 @@ flowchart TD
 > - **الخطأ: الاستمرار في مسار تقني متعثّر لأن الفريق تدرّب عليه بمشقّة.** لماذا يضرّ: كلفة التعلّم غارقة، بينما كلفة الاستمرار على أداة غير مناسبة تتكرّر كل سبرنت. الحل: قيّم الأداة بمعيار الإنتاجية المستقبلية وكلفة التحوّل، واحسب التدريب السابق صفرًا.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Opportunity Cost]] | [[Prioritization]] | [[Circuit Breaker]] | [[HiPPO]] | [[Initiative]] | [[Eisenhower Matrix]] | [[Go or No-Go Decision]] | [[Confirmation Bias]] | [[Timeboxing]] | [[Technical Debt]] | [[Decision Log]] | [[Psychological Safety]] | [[Cost of Experimentation]]
+[[Opportunity Cost]] | [[Prioritization]] | [[Circuit Breaker]] | [[HiPPO]] | [[Initiative]] | [[Eisenhower Matrix]] | [[Go or No-Go Decision]] | [[Confirmation Bias]] | [[Timeboxing]] | [[Technical Debt]] | [[Decision Log]] | [[Psychological Safety]] | [[Cost of Experimentation]] | [[Portfolio Optimization]]
 
 > [!tip] 💡 إثراء عملي — كورس لعبة العقل
 > الفرق بين **تأطير تكلفة الاستبدال القادمة** (حجّة صحيحة) و**استدعاء الإنفاق الماضي** (استغلال مغالطة): [[Loss Framing]] و[[09 - التفاوض على القيمة - التثبيت والخسارة والمقايضة]].

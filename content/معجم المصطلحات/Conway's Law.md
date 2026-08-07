@@ -95,4 +95,4 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
-[[Brooks's Law]] | [[Cross-functional Team]] | [[Dependency]] | [[Handoff]] | [[Technical Debt]] | [[Vendor Lock-in]] | [[Bottleneck]] | [[Alignment]] | [[Tesler's Law]] | [[23 - Project Program Portfolio]]
+[[Brooks's Law]] | [[Cross-functional Team]] | [[Two-Pizza Team]] | [[Spotify Model]] | [[Dependency]] | [[Handoff]] | [[Technical Debt]] | [[Vendor Lock-in]] | [[Bottleneck]] | [[Alignment]] | [[Tesler's Law]] | [[23 - Project Program Portfolio]]

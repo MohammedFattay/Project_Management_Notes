@@ -99,4 +99,4 @@ flowchart TD
 > - **الخطأ: عدم أرشفة الوثائق المرفوضة وأسباب رفضها** → **لماذا يضرّ**: تُعاد الفكرة نفسها كل عام ويُعاد النقاش من الصفر بلا ذاكرة مؤسسية → **الحل**: احفظ الوثائق المرفوضة مع سبب الرفض وشرط إعادة النظر في [[Decision Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[PRD]] | [[BRD]] | [[Business Case]] | [[Go or No-Go Decision]] | [[Product Discovery]] | [[Single Source of Truth]] | [[Decision Log]] | [[Stakeholder Map]] | [[North Star Metric]] | [[MVP]] | [[Lean Startup]] | [[Product Principles]] | [[Fake Door Test]] | [[Feature Creep]]
+[[Backcasting]] | [[PRD]] | [[BRD]] | [[Business Case]] | [[Go or No-Go Decision]] | [[Product Discovery]] | [[Single Source of Truth]] | [[Decision Log]] | [[Stakeholder Map]] | [[North Star Metric]] | [[MVP]] | [[Lean Startup]] | [[Product Principles]] | [[Fake Door Test]] | [[Feature Creep]]

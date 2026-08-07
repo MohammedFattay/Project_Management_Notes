@@ -74,4 +74,4 @@ flowchart TD
 > - **تكرار الصيغة نفسها عشرين مرّة**: يُنتج مللًا يُفسَّر خطأً بأنّ «الاسترجاع بلا فائدة».
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Psychological Safety]] | [[Definition of Done]] | [[WIP Limit]] | [[Blameless Postmortem]] | [[Feedback Loop]] | [[Kaizen]] | [[PDCA]] | [[Facilitator]] | [[15.1 الاسترجاع - لماذا يجب أن يقدر الفريق على التوقّف]] | [[15.2 من نقاط العمل إلى التتبّع]]
+[[Psychological Safety]] | [[Six Thinking Hats]] | [[Oblique Strategies]] | [[Definition of Done]] | [[WIP Limit]] | [[Blameless Postmortem]] | [[Feedback Loop]] | [[Kaizen]] | [[PDCA]] | [[Facilitator]] | [[15.1 الاسترجاع - لماذا يجب أن يقدر الفريق على التوقّف]] | [[15.2 من نقاط العمل إلى التتبّع]]

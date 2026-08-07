@@ -71,4 +71,4 @@ flowchart TD
 > - عدم متابعة تنفيذ الإجراءات التصحيحية بعد التحليل، فيبقى RCA مجرد وثيقة نظرية. الحل: ربط كل إجراء تصحيحي بمسؤول وموعد تنفيذ ومتابعته في [[Issue Log]] أو [[RAID Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[PDCA]], [[Kaizen]], [[SRE]], [[MTTR]], [[Escaped Defect Rate]], [[Issue Log]], [[RAID Log]], [[Reopen]], [[19 - Risk Management]], [[10 - Sprint Retrospective]]
+[[Ishikawa Diagram]], [[Pareto Principle]], [[PDCA]], [[Kaizen]], [[SRE]], [[MTTR]], [[Escaped Defect Rate]], [[Issue Log]], [[RAID Log]], [[Reopen]], [[19 - Risk Management]], [[10 - Sprint Retrospective]]

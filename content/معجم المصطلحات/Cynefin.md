@@ -90,4 +90,4 @@ flowchart TD
 > - **ترك المؤسسة في مجال الاضطراب دون حسم**: الخطأ → غياب أي نقاش صريح حول طبيعة المشكلة، فيفترض كل قسم مجاله المفضّل. لماذا يضرّ → ينتج نزاعًا يبدو نزاعًا على الحلول وهو في الحقيقة نزاع على تشخيص الموقف. الحل → افتتح كل مبادرة كبرى بجلسة تصنيف جماعية موثّقة في [[Decision Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Systems Thinking]] | [[Knightian Uncertainty]] | [[Wardley Mapping]] | [[Design Thinking]] | [[Double Diamond]] | [[Pre-mortem]] | [[Reversible vs Irreversible Decisions]] | [[Cost of Experimentation]] | [[Intelligent Failure]] | [[Blameless Postmortem]] | [[Explicit Policies]]
+[[Systems Thinking]] | [[OODA Loop]] | [[VUCA]] | [[Knightian Uncertainty]] | [[Wardley Mapping]] | [[Design Thinking]] | [[Double Diamond]] | [[Pre-mortem]] | [[Reversible vs Irreversible Decisions]] | [[Cost of Experimentation]] | [[Intelligent Failure]] | [[Blameless Postmortem]] | [[Explicit Policies]]

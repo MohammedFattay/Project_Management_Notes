@@ -58,4 +58,4 @@ flowchart TD
 > - قبول اعتماد شفهي "غير رسمي" تحت ضغط الوقت، ثم مواجهة نزاع لاحقاً لعدم وجود دليل. تجنّبها بجعل التوثيق الإلكتروني إجراءً إلزامياً دائماً.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[SOW]] · [[BRD]] · [[UAT]] · [[Definition of Done]] · [[Milestone-based Payment]] · [[Closure vs Handover]] · [[Change Request]] · [[Go or No-Go Decision]] · [[04 - Waterfall]]
+[[SOW]] · [[BRD]] · [[PARIS Matrix]] · [[UAT]] · [[Definition of Done]] · [[Milestone-based Payment]] · [[Closure vs Handover]] · [[Change Request]] · [[Go or No-Go Decision]] · [[04 - Waterfall]]

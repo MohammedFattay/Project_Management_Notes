@@ -117,4 +117,4 @@ flowchart TD
 > - **إهمال قياس قيمة كل مرحلة**: يجعل التقسيم إجراءً إدارياً بلا إثبات. الحلّ: مؤشّرات تُقاس عند نهاية كل مرحلة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[MVP]] | [[Criticality]] | [[Value Stream]] | [[Scope Creep]] | [[Iron Triangle]] | [[Go or No-Go Decision]] | [[PFRE]] | [[Estimation]] | [[Quick Wins vs Big Bangs]] | [[12 - Scope Baseline]] | [[10 - PFRE Decision Model]]
+[[MVP]] | [[PRINCE2]] | [[Criticality]] | [[Value Stream]] | [[Scope Creep]] | [[Iron Triangle]] | [[Go or No-Go Decision]] | [[PFRE]] | [[Estimation]] | [[Quick Wins vs Big Bangs]] | [[12 - Scope Baseline]] | [[10 - PFRE Decision Model]]

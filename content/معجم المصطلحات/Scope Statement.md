@@ -69,4 +69,4 @@ flowchart TD
 > - **البدء بالتنفيذ قبل الحصول على موافقة رسمية موقّعة على وثيقة النطاق**، مما يجعل أي خلاف لاحق بلا مرجع حاسم. الحل: لا يبدأ التنفيذ الفعلي إلا بعد اعتماد الوثيقة رسمياً من كل الأطراف المعنية.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Out of Scope]] | [[Scope Creep]] | [[BRD]] | [[SOW]] | [[Change Request]] | [[Sign-off]] | [[Software Requirements Specification]] | [[04 - Waterfall]]
+[[Out of Scope]] | [[Functional Specification]] | [[Scope Creep]] | [[BRD]] | [[SOW]] | [[Change Request]] | [[Sign-off]] | [[Software Requirements Specification]] | [[04 - Waterfall]]

@@ -62,7 +62,7 @@ flowchart TD
 > - جعل الاتفاقية طويلة ومعقدة بعشرات البنود — الحل: التركيز على 5 إلى 8 قواعد جوهرية قابلة للتذكر.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Self-Organizing Team]] | [[Psychological Safety]] | [[Definition of Done]] | [[Definition of Ready]] | [[Explicit Policies]] | [[WIP Limit]] | [[Tuckman's Stages of Group Development]] | [[10 - Sprint Retrospective]]
+[[Self-Organizing Team]] | [[Psychological Safety]] | [[Definition of Done]] | [[Definition of Ready]] | [[Explicit Policies]] | [[WIP Limit]] | [[Tuckman's Stages of Group Development]] | [[10 - Sprint Retrospective]] | [[Liftoff]]
 
 
 > [!tip] 💡 إثراء عملي — كورس الإنتاجية

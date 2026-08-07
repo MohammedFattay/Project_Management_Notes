@@ -63,4 +63,4 @@ flowchart TD
 > - معاقبة الأخطاء الصغيرة بشدة، مما يدفع الفريق للتردد أو إخفاء المشكلات — الحل: بناء أمان نفسي (Psychological Safety) يشجع الشفافية بدل الخوف.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Servant Leadership]] | [[Self-Organizing Team]] | [[Psychological Safety]] | [[Empowerment]] | [[Team Working Agreement]] | [[06 - Scrum Master]] | [[Leadership at Every Level]]
+[[Theory X and Y]] | [[Command and Control]] | [[One-on-One]] | [[Skip-Level Meeting]] | [[Servant Leadership]] | [[Self-Organizing Team]] | [[Psychological Safety]] | [[Empowerment]] | [[Team Working Agreement]] | [[06 - Scrum Master]] | [[Leadership at Every Level]] | [[Chain of Command]]

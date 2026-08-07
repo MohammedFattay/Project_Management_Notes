@@ -64,7 +64,7 @@ flowchart LR
 > - إهمال بناء الكفاءات المشتركة بين الأعضاء، فيبقى الفريق معتمداً داخلياً على شخص واحد لكل مهارة — الحل: تشجيع البرمجة الزوجية (Pair Programming) ومراجعة الأكواد المشتركة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Self-Organizing Team]] | [[Bottleneck]] | [[Cycle Time]] | [[Increment]] | [[Capacity]] | [[02 - Scrum]] | [[03 - Kanban]] | [[Value Stream Mapping]]
+[[Self-Organizing Team]] | [[Community of Practice]] | [[Spotify Model]] | [[Two-Pizza Team]] | [[Bottleneck]] | [[Cycle Time]] | [[Increment]] | [[Capacity]] | [[02 - Scrum]] | [[03 - Kanban]] | [[Value Stream Mapping]] | [[Liftoff]]
 
 
 > [!tip] 💡 إثراء عملي — كورس الإنتاجية

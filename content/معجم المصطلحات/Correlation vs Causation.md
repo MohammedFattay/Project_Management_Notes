@@ -85,4 +85,4 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
-[[Simpson's Paradox]] | [[Regression to the Mean]] | [[McNamara Fallacy]] | [[AB Testing]] | [[Cognitive Bias]] | [[Base Rate]] | [[Goodhart's Law]] | [[Data Informed vs Data Driven]] | [[Root Cause Analysis]] | [[22 - Outputs and Outcomes]]
+[[Simpson's Paradox]] | [[Statistical Significance]] | [[Trend Analysis]] | [[Regression to the Mean]] | [[McNamara Fallacy]] | [[AB Testing]] | [[Cognitive Bias]] | [[Base Rate]] | [[Goodhart's Law]] | [[Data Informed vs Data Driven]] | [[Root Cause Analysis]] | [[22 - Outputs and Outcomes]]

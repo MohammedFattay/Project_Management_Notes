@@ -62,4 +62,4 @@ flowchart TD
 > - معاملة تعليقات عدد قليل من المستخدمين على أنها حقيقة مطلقة دون قياس كمّي كافٍ. التجنب: الجمع بين الملاحظات النوعية والبيانات الكمية قبل اتخاذ قرارات كبرى.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Customer and Market Validation]] | [[Business Case]] | [[Go or No-Go Decision]] | [[Scope Creep]] | [[Pilot Launch]] | [[Outcome vs Output]] | [[05 - Product Owner]] | [[13 - Backlog]] | [[Feedback Loop]] | [[01 - Agile]]
+[[Customer and Market Validation]] | [[Business Case]] | [[Go or No-Go Decision]] | [[Scope Creep]] | [[Pilot Launch]] | [[Outcome vs Output]] | [[05 - Product Owner]] | [[13 - Backlog]] | [[Feedback Loop]] | [[01 - Agile]] | [[Good Enough For Now]]

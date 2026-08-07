@@ -60,4 +60,4 @@ flowchart TD
 > - **تشكيل فريق دون كفاءات متكاملة (Cross-functional)**: يجعله عاجزًا عن اتخاذ قرارات تنفيذ حقيقية لأنه يحتاج دائمًا لأطراف خارجية. الحل: بناء فرق متعددة الوظائف من البداية.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Psychological Safety]] | [[Servant Leadership]] | [[Micromanagement]] | [[Empowerment]] | [[Cross-functional Team]] | [[Tuckman's Stages of Group Development]] | [[Team Working Agreement]] | [[Alignment]] | [[02 - Scrum]] | [[01 - Agile]]
+[[Theory X and Y]] | [[Command and Control]] | [[Scientific Management]] | [[Psychological Safety]] | [[Servant Leadership]] | [[Micromanagement]] | [[Empowerment]] | [[Cross-functional Team]] | [[Spotify Model]] | [[Two-Pizza Team]] | [[Tuckman's Stages of Group Development]] | [[Team Working Agreement]] | [[Alignment]] | [[02 - Scrum]] | [[01 - Agile]] | [[Chain of Command]]

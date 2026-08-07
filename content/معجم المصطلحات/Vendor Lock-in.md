@@ -63,4 +63,4 @@ flowchart TD
 > - عدم تضمين مخاطرة الاحتجاز لدى المورّد ضمن [[Risk Register]] منذ بداية المشروع، فتُفاجأ الإدارة بها فقط عند الحاجة الفعلية للتبديل.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[TCO]], [[Risk Register]], [[CapEx vs OpEx]], [[Standard Contractual Clauses]], [[Technical Debt]]
+[[Outsourcing]], [[TCO]], [[Risk Register]], [[CapEx vs OpEx]], [[Standard Contractual Clauses]], [[Technical Debt]]

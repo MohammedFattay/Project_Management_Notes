@@ -91,4 +91,4 @@ flowchart TD
 > - **الإبقاء على الميزات غير المستخدَمة إلى الأبد**: كل ميزة ميتة تُصان وتُختبَر وتُهاجَر في كل تحديث فترفع الكلفة الثابتة للمنتج. الحل: مراجعة دورية لبيانات الاستخدام وحذف ما لا يُستخدم صراحةً بوصفه سدادًا لـ [[Technical Debt]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Scope Creep]] | [[Definition of Done]] | [[Acceptance Criteria]] | [[MVP]] | [[Out of Scope]] | [[Technical Debt]] | [[Change Request]] | [[Muda, Mura, Muri]]
+[[Scope Creep]] | [[Definition of Done]] | [[Acceptance Criteria]] | [[MVP]] | [[Out of Scope]] | [[Technical Debt]] | [[Change Request]] | [[Muda, Mura, Muri]] | [[Good Enough For Now]]

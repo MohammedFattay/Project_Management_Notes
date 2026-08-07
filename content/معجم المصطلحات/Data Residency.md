@@ -83,4 +83,4 @@ flowchart TD
 > - **الخطأ**: إرسال مطالبات المستخدمين إلى نموذج ذكاء اصطناعي خارجي دون فحص مسار البيانات. **لماذا يضرّ**: قد يخرج نصّ يحوي بيانات عملاء خارج النطاق ويُحتفظ به مؤقّتًا لدى المزوّد. **الحل**: افحص سياسة الاحتفاظ والتدريب وموقع الاستضافة قبل الدمج، وطبّق تنقية للمدخلات، وسجّل النتيجة في سجلّ المعالجة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[PDPL]] | [[GDPR]] | [[Controller vs Processor]] | [[ROPA]] | [[Standard Contractual Clauses]] | [[RTO and RPO]] | [[Vendor Management]] | [[Vendor Lock-in]] | [[TCO]] | [[Risk Register]] | [[Retrieval-Augmented Generation]]
+[[PDPL]] | [[GDPR]] | [[Outsourcing]] | [[Controller vs Processor]] | [[ROPA]] | [[Standard Contractual Clauses]] | [[RTO and RPO]] | [[Vendor Management]] | [[Vendor Lock-in]] | [[TCO]] | [[Risk Register]] | [[Retrieval-Augmented Generation]]

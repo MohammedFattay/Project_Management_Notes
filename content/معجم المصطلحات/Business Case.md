@@ -63,4 +63,4 @@ flowchart TD
 > - نسيان مبرر العمل بعد الموافقة الأولية وعدم مراجعته رغم تغيّر ظروف السوق. التجنب: ربط مراجعته بـ [[Milestone]] رئيسية في خطة المشروع.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[BRD]] | [[CapEx vs OpEx]] | [[TCO]] | [[Go or No-Go Decision]] | [[Cost of Delay]] | [[Stakeholder Map]] | [[Risk Register]] | [[SMART Goals]]
+[[BRD]] | [[Quad Chart]] | [[PRINCE2]] | [[CapEx vs OpEx]] | [[TCO]] | [[Go or No-Go Decision]] | [[Cost of Delay]] | [[Stakeholder Map]] | [[Risk Register]] | [[SMART Goals]]

@@ -60,4 +60,4 @@ flowchart TD
 > - كتابة الوثيقة من طرف واحد (المطور فقط أو العميل فقط) دون مراجعة مشتركة، مما يؤدي لفجوة فهم تظهر متأخرة جدًا في مرحلة الاختبار أو التسليم.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[BRD]] | [[RTM]] | [[Single Source of Truth]] | [[Sign-off]] | [[Change Request]] | [[UAT]] | [[User Stories]] | [[MoSCoW Prioritization]] | [[04 - Waterfall]]
+[[Quality Attributes]] | [[Functional Specification]] | [[BRD]] | [[RTM]] | [[Single Source of Truth]] | [[Sign-off]] | [[Change Request]] | [[UAT]] | [[User Stories]] | [[MoSCoW Prioritization]] | [[04 - Waterfall]]

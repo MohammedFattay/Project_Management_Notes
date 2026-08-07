@@ -62,4 +62,4 @@ flowchart TD
 > - **كتابة بنود خارج النطاق بصياغة غامضة** مثل "لا يشمل ميزات متقدمة"، مما يفتح باب الجدل حول تعريف "متقدمة". الحل: استخدم صياغة محددة وقابلة للقياس مثل الأمثلة الملموسة.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Scope Statement]] | [[Scope Creep]] | [[Change Request]] | [[MVP]] | [[Feature Freeze]] | [[Backlog Refinement]] | [[SOW]] | [[BRD]] | [[Software Requirements Specification]]
+[[Scope Statement]] | [[Functional Specification]] | [[Scope Creep]] | [[Change Request]] | [[MVP]] | [[Feature Freeze]] | [[Backlog Refinement]] | [[SOW]] | [[BRD]] | [[Software Requirements Specification]]

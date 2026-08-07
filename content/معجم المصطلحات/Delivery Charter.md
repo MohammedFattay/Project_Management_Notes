@@ -89,4 +89,4 @@ flowchart TD
 > - **الاعتماد عبر البريد دون جلسة مناقشة**: يوقّع الجميع دون قراءة، ثم ينكرون الفهم عند أول خلاف. الحل: جلسة مراجعة قصيرة تُقرأ فيها الأهداف والقيود بصوت عالٍ ويُثبَّت الاتفاق في [[Decision Log]].
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[ميثاق المشروع (Project Charter)]] | [[BRD]] | [[PRD]] | [[Software Requirements Specification]] | [[Business Case]] | [[Guard Rails]] | [[Scope Statement]] | [[Delivery Layer]]
+[[ميثاق المشروع (Project Charter)]] | [[BRD]] | [[PRD]] | [[Software Requirements Specification]] | [[Business Case]] | [[Guard Rails]] | [[Scope Statement]] | [[Delivery Layer]] | [[Liftoff]]

@@ -93,4 +93,4 @@ flowchart TD
 > - **الخطأ: خلط قرار الأولوية بقرار الاستمرار.** لماذا يضرّ: بنود بدأت وفقدت جدواها تظلّ في الصدارة لأن «أنفقنا عليها كثيرًا»، وهو [[Sunk Cost Fallacy]] بعينه. الحل: أدرج البنود الجارية في المراجعة الدورية بمنطق «هل نبدؤها اليوم من الصفر؟»، لا بمنطق حماية ما أُنفق.
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
-[[Opportunity Cost]] | [[Sunk Cost Fallacy]] | [[Eisenhower Matrix]] | [[HiPPO]] | [[Initiative]] | [[Circuit Breaker]] | [[RICE Prioritization]] | [[WSJF]] | [[MoSCoW Prioritization]] | [[Cost of Delay]] | [[Kano Model]] | [[Capacity]] | [[Backlog Refinement]] | [[Decision Log]] | [[Expedite Class]] | [[Task and Story Slicing]]
+[[Opportunity Cost]] | [[Sunk Cost Fallacy]] | [[Eisenhower Matrix]] | [[HiPPO]] | [[Initiative]] | [[Circuit Breaker]] | [[RICE Prioritization]] | [[WSJF]] | [[MoSCoW Prioritization]] | [[Cost of Delay]] | [[Kano Model]] | [[Capacity]] | [[Backlog Refinement]] | [[Decision Log]] | [[Expedite Class]] | [[Task and Story Slicing]] | [[Portfolio Optimization]]

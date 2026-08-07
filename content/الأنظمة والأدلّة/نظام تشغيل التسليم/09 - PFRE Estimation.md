@@ -86,7 +86,7 @@ status: لم يبدأ
 | `Data Readiness` | 0 | +0.2 | **+0.4** | جاهزية `Master Data` / `Opening Balances` |
 | `Complexity / Integration` | 0 | +0.2 | **+0.4** | تعقيد التكاملات والاعتماديات |
 
-$$RF = 1.2 + \sum \text{الدرجات} \qquad (1.2 \le RF \le 2.4)$$
+**`RF` = 1.2 + مجموع الدرجات** — ولا يخرج عن المدى **1.2 – 2.4**.
 
 | `RF` | المعنى |
 |---|---|

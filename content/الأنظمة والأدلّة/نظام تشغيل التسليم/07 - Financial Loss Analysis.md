@@ -70,7 +70,7 @@ status: لم يبدأ
 > - متوسط الطلب = **3,000 ريال**
 >
 > فإن: `Revenue Loss = Orders × Delay Rate × Average Order Value`
-> $$300 \times 10\% \times 3{,}000 = \mathbf{90{,}000 \text{ ريال}}$$
+> **300 × 10٪ × 3,000 = 90,000 ريال**
 
 ### الجملة التنفيذية
 

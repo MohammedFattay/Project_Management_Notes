@@ -62,3 +62,6 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 [[Cycle Time]] | [[Trend Analysis]] | [[Anomaly Detection]] | [[Six Sigma]] | [[DMAIC]] | [[Little's Law]] | [[SLE]] | [[WIP Limit]] | [[Throughput]] | [[Bottleneck]] | [[Percentiles and Median vs Average]] | [[03 - Kanban]] | [[17 - Burndown Chart]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> كيف يُستعمَل لتوجيه نظام التدفّق لا لمساءلة الأفراد، وما يكشفه من تباعد في التقدير: [[14 - مصفوفة التدفّق ونظرية القيود]].

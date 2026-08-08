@@ -96,3 +96,6 @@ flowchart TD
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
 [[Brooks's Law]] | [[Cross-functional Team]] | [[Two-Pizza Team]] | [[Spotify Model]] | [[Dependency]] | [[Handoff]] | [[Technical Debt]] | [[Vendor Lock-in]] | [[Bottleneck]] | [[Alignment]] | [[Tesler's Law]] | [[23 - Project Program Portfolio]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> النصّ الأصلي سنة 1968، والدليل التجريبي عليه (فرضية المرآة)، ومناورة كونواي العكسية أداةَ تصميم: [[11 - العملية المتمركزة حول العميل وقانون كونواي]].

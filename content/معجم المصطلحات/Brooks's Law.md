@@ -101,3 +101,6 @@ flowchart TD
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
 [[Conway's Law]] | [[Two-Pizza Team]] | [[Dunbar's Number]] | [[Context Switching Cost]] | [[Cross-functional Team]] | [[Technical Debt]] | [[Handoff]] | [[Dependency]] | [[Scope Creep]] | [[PERT]] | [[Cost-of-Change Curve]] | [[02 - Scrum]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> كيف يُعرَض على مدير يقول «سبق أن أضفنا ناسًا ونجح الأمر»: [[11 - العملية المتمركزة حول العميل وقانون كونواي]].

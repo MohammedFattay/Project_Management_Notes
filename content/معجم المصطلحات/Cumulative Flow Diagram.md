@@ -103,3 +103,6 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 [[WIP Aging]] | [[WIP Limit]] | [[Little's Law]] | [[Cycle Time]] | [[Lead Time]] | [[Throughput]] | [[Flow Efficiency]] | [[Bottleneck]] | [[Control Chart]] | [[03 - Kanban]] | [[Value Stream Mapping]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> ثلاث قراءات في المخطّط الواحد — العرض والميل والمسافة الأفقية — وثلاثة أنماط عطب تُقرأ منه: [[14 - مصفوفة التدفّق ونظرية القيود]].

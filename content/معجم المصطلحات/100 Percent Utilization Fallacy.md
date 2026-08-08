@@ -56,3 +56,6 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 [[Capacity]] | [[Reserve Capacity]] | [[WIP Limit]] | [[Bottleneck]] | [[Cycle Time]] | [[Sustainable Pace]] | [[Little's Law]] | [[Buffer]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> الأساس الكمّي للمغالطة في صيغة كينغمان، وجدول مضاعفات الانتظار: [[11 - العملية المتمركزة حول العميل وقانون كونواي]].

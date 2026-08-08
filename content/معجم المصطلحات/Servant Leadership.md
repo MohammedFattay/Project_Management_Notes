@@ -63,3 +63,6 @@ flowchart TD
 
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 [[Psychological Safety]] | [[Self-Organizing Team]] | [[Micromanagement]] | [[Empowerment]] | [[Leadership at Every Level]] | [[Facilitator]] | [[06 - Scrum Master]] | [[Emotional Intelligence]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> ما يبقى للمدير بعد قيام الفريق متعدّد الوظائف، بمسؤوليات لها مُخرَج مُقاس: [[11 - العملية المتمركزة حول العميل وقانون كونواي]].

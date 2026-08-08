@@ -111,3 +111,6 @@ flowchart TD
 ## 🔗 مصطلحات ومفاهيم ذات صلة
 
 [[Skip-Level Meeting]] | [[07 - Daily Standup]] | [[Psychological Safety]] | [[Micromanagement]] | [[Empowerment]] | [[Burnout]] | [[Servant Leadership]] | [[Nonviolent Communication]] | [[Active Listening]] | [[Ruinous Empathy]] | [[Retrospective]] | [[06 - Scrum Master]]
+
+> [!tip] 💡 إثراء عملي — كورس الإنتاجية
+> موضعها درجةً ثانية في سُلَّم المساءلة المتبادلة، وقالبها بأربعة عناصر: [[12 - نضج الفريق والأمان النفسي]].

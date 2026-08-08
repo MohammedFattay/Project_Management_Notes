@@ -1,6 +1,8 @@
 ---
 title: "04 — Pain / Gain Coverage Matrix · مصفوفة تغطية الألم"
-aliases: [Pain Gain Coverage, مصفوفة التغطية, Coverage Matrix]
+aliases:
+  - Pain Gain Coverage
+  - مصفوفة التغطية
 type: قالب
 stage: "2 · تعريف القيمة"
 system: "[[نظام تشغيل التسليم]]"

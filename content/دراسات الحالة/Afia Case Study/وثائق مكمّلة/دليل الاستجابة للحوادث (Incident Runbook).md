@@ -1,9 +1,7 @@
 ---
 title: "دليل الاستجابة للحوادث (Incident Runbook)"
 aliases:
-  - Runbook
   - Incident Runbook
-  - دليل التشغيل
   - كتيّب الحوادث
 type: وثيقة-مكمّلة
 area: "[[Project Management]]"

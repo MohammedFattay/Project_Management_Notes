@@ -1,6 +1,17 @@
 ---
 title: "Spotify Model — نموذج سبوتيفاي"
-aliases: [نموذج سبوتيفاي, Spotify Model, السرب, Squad, القبيلة, Tribe, الشعبة, Chapter, النقابة, Guild, الأسراب والقبائل, الاستقلال المتوائم, Aligned Autonomy]
+aliases:
+  - نموذج سبوتيفاي
+  - Spotify Model
+  - السرب
+  - Squad
+  - القبيلة
+  - Tribe
+  - الشعبة
+  - Chapter
+  - الأسراب والقبائل
+  - الاستقلال المتوائم
+  - Aligned Autonomy
 type: مصطلح
 area: "[[Project Management]]"
 tags:

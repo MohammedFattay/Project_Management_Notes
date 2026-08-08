@@ -1,6 +1,9 @@
 ---
 title: "Customer and Market Validation — تحقّق العميل والسوق"
-aliases: [Validation, تحقّق العميل, Customer and Market Validation, تحقّق العميل والسوق]
+aliases:
+  - تحقّق العميل
+  - Customer and Market Validation
+  - تحقّق العميل والسوق
 type: مصطلح
 area: "[[Project Management]]"
 tags:

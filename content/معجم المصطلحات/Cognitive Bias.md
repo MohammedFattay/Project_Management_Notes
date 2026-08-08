@@ -1,6 +1,17 @@
 ---
 title: "Cognitive Bias — التحيّز المعرفي"
-aliases: [Cognitive Bias, Anchoring Bias, Availability Heuristic, Recency Bias, Hindsight Bias, Planning Fallacy, Survivorship Bias, التحيّز المعرفي, التحيّزات المعرفية, التثبيت, مغالطة التخطيط, تحيّز الناجين, انحياز الإدراك المتأخر]
+aliases:
+  - Cognitive Bias
+  - Availability Heuristic
+  - Recency Bias
+  - Hindsight Bias
+  - Planning Fallacy
+  - Survivorship Bias
+  - التحيّز المعرفي
+  - التحيّزات المعرفية
+  - مغالطة التخطيط
+  - تحيّز الناجين
+  - انحياز الإدراك المتأخر
 type: مصطلح
 area: "[[Project Management]]"
 tags:

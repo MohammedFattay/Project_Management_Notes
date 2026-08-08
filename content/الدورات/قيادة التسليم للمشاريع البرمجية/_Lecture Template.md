@@ -1,8 +1,6 @@
 ---
 title: "المحاضرة NN — العنوان"
-aliases:
-  - الاسم العربي المختصر
-  - English Short Name
+aliases: []
 lecture: 0
 course: "[[قيادة التسليم للمشاريع البرمجية]]"
 tags:

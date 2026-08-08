@@ -1,6 +1,8 @@
 ---
 title: "18 — Vendor Scorecard · بطاقة تقييم المورّد"
-aliases: [Vendor Scorecard Template, بطاقة تقييم المورد, إدارة الموردين]
+aliases:
+  - Vendor Scorecard Template
+  - إدارة الموردين
 type: قالب
 stage: "5 · التنفيذ والحوكمة"
 system: "[[نظام تشغيل التسليم]]"

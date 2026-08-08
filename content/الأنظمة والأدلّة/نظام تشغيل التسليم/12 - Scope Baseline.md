@@ -1,6 +1,9 @@
 ---
 title: "12 — Scope Baseline · خطّ أساس النطاق"
-aliases: [Scope Baseline, خط أساس النطاق, In Scope Out of Scope, Scope Lock]
+aliases:
+  - Scope Baseline
+  - خط أساس النطاق
+  - In Scope Out of Scope
 type: قالب
 stage: "4 · التخطيط وضبط النطاق"
 system: "[[نظام تشغيل التسليم]]"

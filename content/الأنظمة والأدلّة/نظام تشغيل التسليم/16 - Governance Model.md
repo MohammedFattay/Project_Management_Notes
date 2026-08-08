@@ -1,6 +1,8 @@
 ---
 title: "16 — Governance Model · نموذج الحوكمة"
-aliases: [Governance Model, نموذج الحوكمة, Steering Committee, Decision SLA]
+aliases:
+  - Governance Model
+  - نموذج الحوكمة
 type: قالب
 stage: "5 · التنفيذ والحوكمة"
 system: "[[نظام تشغيل التسليم]]"

@@ -1,8 +1,6 @@
 ---
 title: "الفصل NN — العنوان"
-aliases:
-  - العنوان
-  - English Title
+aliases: []
 chapter: NN
 course: "[[كورس لعبة العقل]]"
 tags:

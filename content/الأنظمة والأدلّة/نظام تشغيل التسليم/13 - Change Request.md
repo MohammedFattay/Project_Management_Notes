@@ -1,6 +1,9 @@
 ---
 title: "13 — Change Request · طلب التغيير"
-aliases: [Change Request Template, قالب طلب التغيير, CR, Change Control]
+aliases:
+  - Change Request Template
+  - قالب طلب التغيير
+  - Change Control
 type: قالب
 stage: "4 · التخطيط وضبط النطاق"
 system: "[[نظام تشغيل التسليم]]"

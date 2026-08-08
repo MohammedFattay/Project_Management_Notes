@@ -1,6 +1,9 @@
 ---
 title: "09 — PFRE Estimation · التقدير المركّب"
-aliases: [PFRE Template, قالب التقدير, Effort Units, PFRE Key Map]
+aliases:
+  - PFRE Template
+  - قالب التقدير
+  - PFRE Key Map
 type: قالب
 stage: "3 · التحليل والتقدير"
 system: "[[نظام تشغيل التسليم]]"

@@ -1,6 +1,8 @@
 ---
 title: "Cost of Delay — تكلفة التأخير"
-aliases: [تكلفة التأخير, Cost of Delay, CoD]
+aliases:
+  - تكلفة التأخير
+  - Cost of Delay
 type: مصطلح
 area: "[[Project Management]]"
 tags:

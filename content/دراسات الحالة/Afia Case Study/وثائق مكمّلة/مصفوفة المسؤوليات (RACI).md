@@ -1,9 +1,7 @@
 ---
 title: "مصفوفة المسؤوليات (RACI)"
 aliases:
-  - RACI
   - RACI Matrix
-  - مصفوفة المسؤوليات
 type: وثيقة-مكمّلة
 area: "[[Project Management]]"
 related: "[[03 - التخطيط]]"

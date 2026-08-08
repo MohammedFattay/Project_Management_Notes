@@ -1,6 +1,10 @@
 ---
 title: "Proof of Concept — إثبات المفهوم"
-aliases: [Proof of Concept, PoC, POC, إثبات المفهوم, إثبات الجدوى التقنية, برهان المفهوم]
+aliases:
+  - Proof of Concept
+  - إثبات المفهوم
+  - إثبات الجدوى التقنية
+  - برهان المفهوم
 type: مصطلح
 area: "[[Project Management]]"
 tags:

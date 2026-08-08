@@ -1,6 +1,6 @@
 ---
 title: "02 — Readiness Assessment · تقييم الجاهزية"
-aliases: [Readiness Assessment, تقييم الجاهزية, جاهزية العميل]
+aliases: []
 type: قالب
 stage: "1 · الاستقبال والجاهزية"
 system: "[[نظام تشغيل التسليم]]"

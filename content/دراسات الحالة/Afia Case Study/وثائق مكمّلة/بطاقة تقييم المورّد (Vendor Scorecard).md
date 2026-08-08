@@ -2,7 +2,6 @@
 title: "بطاقة تقييم المورّد (Vendor Scorecard) — وثيقة مكمّلة"
 aliases:
   - بطاقة تقييم المورّد
-  - Vendor Scorecard
 type: وثيقة-مكمّلة
 area: "[[Project Management]]"
 related: "[[01 - الحوكمة]]"

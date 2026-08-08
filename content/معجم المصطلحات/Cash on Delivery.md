@@ -1,6 +1,10 @@
 ---
 title: "Cash on Delivery — الدفع عند الاستلام"
-aliases: [Cash on Delivery, COD, الدفع عند الاستلام, الدفع عند التسليم, الدفع نقدًا عند الاستلام]
+aliases:
+  - Cash on Delivery
+  - الدفع عند الاستلام
+  - الدفع عند التسليم
+  - الدفع نقدًا عند الاستلام
 type: مصطلح
 area: "[[Project Management]]"
 tags:

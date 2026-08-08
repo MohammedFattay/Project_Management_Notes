@@ -3,8 +3,6 @@ title: "سجل الدروس المستفادة (Lessons Learned Register) — و
 aliases:
   - سجل الدروس المستفادة
   - Lessons Learned Register
-  - Lessons Learned
-  - الدروس المستفادة
 type: وثيقة-مكمّلة
 area: "[[Project Management]]"
 related: "[[07 - التسليم والقانوني]]"

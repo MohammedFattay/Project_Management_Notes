@@ -1,6 +1,7 @@
 ---
 title: "07 — Financial Loss Analysis · تحليل الخسارة المالية"
-aliases: [Financial Loss Analysis, تحليل الخسارة المالية, الخسارة الشهرية]
+aliases:
+  - الخسارة الشهرية
 type: قالب
 stage: "2 · تعريف القيمة"
 system: "[[نظام تشغيل التسليم]]"

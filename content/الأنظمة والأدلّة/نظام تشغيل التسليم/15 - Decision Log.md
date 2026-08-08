@@ -1,6 +1,7 @@
 ---
 title: "15 — Decision Log · سجلّ القرارات"
-aliases: [Decision Log Template, سجل القرارات, Decision SLA]
+aliases:
+  - Decision Log Template
 type: قالب
 stage: "5 · التنفيذ والحوكمة"
 system: "[[نظام تشغيل التسليم]]"

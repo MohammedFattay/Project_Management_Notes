@@ -1,6 +1,7 @@
 ---
 title: "19 — Early Warning Dashboard · لوحة الإنذار المبكر"
-aliases: [Early Warning Dashboard, لوحة الإنذار المبكر, مؤشرات الخطر]
+aliases:
+  - مؤشرات الخطر
 type: قالب
 stage: "5 · التنفيذ والحوكمة"
 system: "[[نظام تشغيل التسليم]]"

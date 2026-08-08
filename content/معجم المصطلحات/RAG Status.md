@@ -1,6 +1,8 @@
 ---
 title: "RAG Status — حالة إشارة المرور"
-aliases: [Red Amber Green, حالة إشارة المرور, RAG]
+aliases:
+  - Red Amber Green
+  - حالة إشارة المرور
 type: مصطلح
 area: "[[Project Management]]"
 tags:

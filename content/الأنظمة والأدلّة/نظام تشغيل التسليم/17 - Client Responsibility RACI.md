@@ -1,6 +1,8 @@
 ---
 title: "17 — Client Responsibility · مصفوفة مسؤوليات العميل (RACI)"
-aliases: [Client Responsibility Matrix, مصفوفة مسؤوليات العميل, RACI Template]
+aliases:
+  - مصفوفة مسؤوليات العميل
+  - RACI Template
 type: قالب
 stage: "5 · التنفيذ والحوكمة"
 system: "[[نظام تشغيل التسليم]]"

@@ -1,6 +1,8 @@
 ---
 title: "06 — Value Streams · تدفّقات القيمة"
-aliases: [Value Streams Template, تدفقات القيمة, Order to Cash, Procure to Pay]
+aliases:
+  - Value Streams Template
+  - تدفقات القيمة
 type: قالب
 stage: "2 · تعريف القيمة"
 system: "[[نظام تشغيل التسليم]]"

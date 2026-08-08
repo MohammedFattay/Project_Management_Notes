@@ -1,8 +1,6 @@
 ---
 title: "اسم الموضوع"
-aliases:
-  - الاسم العربي المختصر
-  - English Name
+aliases: []
 topic: 0
 area: "[[Project Management]]"
 tags:

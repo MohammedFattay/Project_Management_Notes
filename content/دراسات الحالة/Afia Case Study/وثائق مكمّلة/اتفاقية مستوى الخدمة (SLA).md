@@ -1,9 +1,6 @@
 ---
 title: "اتفاقية مستوى الخدمة (SLA)"
-aliases:
-  - SLA
-  - Service Level Agreement
-  - اتفاقية الخدمة
+aliases: []
 type: وثيقة-مكمّلة
 area: "[[Project Management]]"
 related: "[[11 - العمليات]]"

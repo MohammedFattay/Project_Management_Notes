@@ -1,6 +1,6 @@
 ---
 title: "01 — Project Intake · استقبال المشروع"
-aliases: [Project Intake, استقبال المشروع, رادار المشروع الأول]
+aliases: []
 type: قالب
 stage: "1 · الاستقبال والجاهزية"
 system: "[[نظام تشغيل التسليم]]"

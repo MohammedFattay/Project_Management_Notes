@@ -1,6 +1,8 @@
 ---
 title: "08 — Fit / Gap Analysis · تحليل الملاءمة والفجوة"
-aliases: [Fit Gap Template, تحليل الملاءمة والفجوة, Standard Config Custom]
+aliases:
+  - Fit Gap Template
+  - Standard Config Custom
 type: قالب
 stage: "3 · التحليل والتقدير"
 system: "[[نظام تشغيل التسليم]]"
